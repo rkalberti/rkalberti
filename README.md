@@ -45,22 +45,19 @@ Técnico em Desenvolvimento de Sistemas
 ---
 
 <p align="center">
-✨ ── ✦ • Painel de Matérias • ✦ ── ✨
+✨ ── ✦ • Matérias do Curso • ✦ ── ✨
 </p>
 
 <p align="center">
-🖤 Programação: 🖤
-💻 Front End | 💻 Back End | 📱 Mobile | 🖥️ Desenvolvimento de Sistemas
+💻 Programação & Desenvolvimento: Front End | Back End | Mobile | Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-🔵 Dados & Banco: 🔵
-🗄️ Banco de Dados | 📊 Ciências de Dados
+📊 Dados & Banco: Banco de Dados | Ciências de Dados
 </p>
 
 <p align="center">
-💙 Conceitos & Design: 💙
-🧠 Ciências da Computação | 💡 Lógica Computacional | 🛠️ Análise & Projeto de Sistemas | 🎨 Computação Gráfica
+🧠 Conceitos & Design: Ciências da Computação | Lógica Computacional | Análise & Projeto de Sistemas | Computação Gráfica
 </p>
 
 <p align="center">
