@@ -41,3 +41,30 @@ Técnico em Desenvolvimento de Sistemas
 <p align="center">
 ✨ ── ✦ • 🌟 • ✦ ── ✨
 </p>
+
+---
+
+<p align="center">
+✨ ── ✦ • 🌟 • ✦ ── ✨
+</p>
+
+<p align="center">
+🎓 <b>Matérias do Curso</b> 🎓
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Front_End-6c5ce7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Back_End-2d3436?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile-00b894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desenvolvimento-8e44ad?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Banco_de_Dados-d63031?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ciências_de_Dados-00cec9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ciências_da_Computação-0984e3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lógica_Computacional-00b894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Análise_e_Projeto-6c5ce7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computação_Gráfica-2d3436?style=for-the-badge"/>
+</p>
+
+<p align="center">
+✨ ── ✦ • 🌟 • ✦ ── ✨
+</p>
