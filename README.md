@@ -21,7 +21,6 @@ Técnico em Desenvolvimento de Sistemas
 
 ---
 
----
 
 <p align="center">
 ✨ ── ✦ • 🌟 • ✦ ── ✨
