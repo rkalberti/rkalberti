@@ -21,23 +21,14 @@ Técnico em Desenvolvimento de Sistemas
 
 ---
 
+## 📚 Sobre
+
 **Curso:** Técnico em Desenvolvimento de Sistemas  
-**Componente que mais gostei:** Lógica de Programação  
-**Hobby:** Desenho, jogos e leitura
-
-<br>
-
-<p align="center">
-✨ ─── ✦ ✦ ✦ ─── ✨
-</p>
+**Gosto de:** Skate, biologia/anatomia, jogos, leitura, ciência e tecnologia
 
 <p align="center">
 <img src="https://img.shields.io/badge/💻-282c34?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/🎨-ff6f61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎮-6fc2ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚-c084fc?style=for-the-badge"/>
-</p>
-
-<p align="center">
-✨ ─── ✦ ✦ ✦ ─── ✨
+<img src="https://img.shields.io/badge/🧬-6fc2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎮-ff6f61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛹-c084fc?style=for-the-badge"/>
 </p>
