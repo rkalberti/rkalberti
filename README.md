@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Ketlyn Alberti</h1>
 
-<!--
-**rkalberti/rkalberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Técnico em Desenvolvimento de Sistemas
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,react" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react"/>
+
+</p>
+
+---
+
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Componente que mais gostei:** Lógica de Programação  
+**Hobby:** Desenho, jogos e leitura
