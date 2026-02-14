@@ -41,25 +41,3 @@ Técnico em Desenvolvimento de Sistemas
 <p align="center">
 ✨ ── ✦ • 🌟 • ✦ ── ✨
 </p>
-
----
-
-<p align="center">
-🎓 Matérias do Curso 🎓
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Front_End-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Back_End-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mobile-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Desenvolvimento-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Banco_de_Dados-111111?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Ciências_de_Dados-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ciências_da_Computação-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lógica_Computacional-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Análise_e_Projeto-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computação_Gráfica-111111?style=for-the-badge"/>
-</p>
