@@ -41,28 +41,3 @@ Técnico em Desenvolvimento de Sistemas
 <p align="center">
 ✨ ── ✦ • 🌟 • ✦ ── ✨
 </p>
-
----
-
-<p align="center">
-✨ ── ✦ • 🌌 Matérias do Curso 🌌 • ✦ ── ✨
-</p>
-
-<p align="center">
-💻 <b>Programação & Desenvolvimento</b>  
-<span style="color:#8e44ad">•</span> Front End <span style="color:#8e44ad">•</span> Back End <span style="color:#8e44ad">•</span> Mobile <span style="color:#8e44ad">•</span> Desenvolvimento de Sistemas
-</p>
-
-<p align="center">
-📊 <b>Dados & Banco</b>  
-<span style="color:#3498db">•</span> Banco de Dados <span style="color:#3498db">•</span> Ciências de Dados
-</p>
-
-<p align="center">
-🧠 <b>Conceitos & Design</b>  
-<span style="color:#e74c3c">•</span> Ciências da Computação <span style="color:#e74c3c">•</span> Lógica Computacional <span style="color:#e74c3c">•</span> Análise & Projeto de Sistemas <span style="color:#e74c3c">•</span> Computação Gráfica
-</p>
-
-<p align="center">
-✨ ── ✦ • 🌌 • ✦ ── ✨
-</p>
