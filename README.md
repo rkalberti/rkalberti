@@ -4,15 +4,7 @@
 Técnico em Desenvolvimento de Sistemas
 </p>
 
-<p align="center">
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</p>
----
+<br>
 
 <p align="center">
 
@@ -24,6 +16,8 @@ Técnico em Desenvolvimento de Sistemas
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react"/>
 
 </p>
+
+<br>
 
 ---
 
