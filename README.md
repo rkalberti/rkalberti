@@ -21,14 +21,25 @@ Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 📚 Sobre
-
-**Curso:** Técnico em Desenvolvimento de Sistemas  
-**Gosto de:** Skate, biologia/anatomia, jogos, leitura, ciência e tecnologia
+---
 
 <p align="center">
-<img src="https://img.shields.io/badge/💻-282c34?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/🧬-6fc2ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎮-ff6f61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🛹-c084fc?style=for-the-badge"/>
+✨ ── ✦ • ☄️ • ✦ ── ✨
+</p>
+
+## 📖 Sobre
+
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Gosto de:** Skate 🛹, biologia/anatomia 🧬, jogos 🎮, leitura 📚, ciência & tecnologia 💡  
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laptop-282c34?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Science-6fc2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game-ff6f61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skate-c084fc?style=for-the-badge"/>
+</p>
+
+<p align="center">
+✨ ── ✦ • 🌟 • ✦ ── ✨
 </p>
