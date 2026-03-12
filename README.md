@@ -29,7 +29,7 @@ Técnico em Desenvolvimento de Sistemas
 ## 📖 Sobre
 
 **Curso:** Técnico em Desenvolvimento de Sistemas  
-**Hobby:** skate 🛹, estudar biologia e anatomia 🧬, jogos 🎮, leitura 📚, ciência & tecnologia 💡  
+**Hobby:** skate, estudar biologia e anatomia 🧬, jogos, leitura, ciência & tecnologia 💡  
 
 <p align="center">
 <img src="https://img.shields.io/badge/Skate-8e44ad?style=for-the-badge&logo=skateboarding&logoColor=white"/>
