@@ -14,6 +14,7 @@ Técnico em Desenvolvimento de Sistemas
 <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi"/>
 
 </p>
 
@@ -28,8 +29,11 @@ Técnico em Desenvolvimento de Sistemas
 
 ## 📖 Sobre
 
-**Curso:** Técnico em Desenvolvimento de Sistemas  
-**Hobby:** skate, estudar biologia e anatomia 🧬, jogos, leitura, ciência & tecnologia 💡  
+**Estudante de **Técnico em Desenvolvimento de Sistemas**, com interesse em tecnologia, ciência e programação.
+
+Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos de programação e aprender coisas novas relacionadas a ciência e computação.
+
+Fora da programação, também gosto de andar de skate, de jogos, de ler, estudar biologia e anatomia 🧬💡. 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Skate-8e44ad?style=for-the-badge&logo=skateboarding&logoColor=white"/>
