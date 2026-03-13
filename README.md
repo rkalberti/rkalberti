@@ -33,7 +33,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas**, com interesse em tecno
 
 Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos de programação e aprender coisas novas relacionadas a ciência e computação.
 
-Fora da programação, também gosto de andar de skate, de jogos, de ler, estudar biologia e anatomia 🧬💡. 
+Fora da programação, também gosto de andar de skate, de livros, e de  estudar biologia 🧬💡. 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Skate-8e44ad?style=for-the-badge&logo=skateboarding&logoColor=white"/>
