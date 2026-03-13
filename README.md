@@ -29,7 +29,7 @@ Técnico em Desenvolvimento de Sistemas
 
 ## 📖 Sobre
 
-**Estudante de **Técnico em Desenvolvimento de Sistemas**, com interesse em tecnologia, ciência e programação.
+Estudante de **Técnico em Desenvolvimento de Sistemas**, com interesse em tecnologia, ciência e programação.
 
 Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos de programação e aprender coisas novas relacionadas a ciência e computação.
 
